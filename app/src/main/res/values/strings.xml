@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Genshin Impact Damage Calculator</string>
+    <string name="form">Create new character</string>
+
+    <string name="form_title">Character\'s title</string>
+    <string name="form_name">Character\'s name</string>
+    <string name="form_submit_button">Submit</string>
+</resources>
